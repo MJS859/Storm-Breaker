@@ -56,8 +56,8 @@
 
 ## Default username and password:
 
-- `username` : `admin`
-- `password` : `admin`
+- `MJS` : `admin`
+- `Aa50026094@@` : `admin`
 - You can edit the config.php file to change the username and password .
   <br>
 
